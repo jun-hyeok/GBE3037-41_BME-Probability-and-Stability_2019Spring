@@ -71,43 +71,43 @@ Week  | Video lectures | Class | Chapters
 3/4  |  No video | Course overview | Overview |    |
 3/6  | [V01] Data | Cognitive errors! | Ch.1-2  |
 **Week 2** | | | |
-3/11 | [V02] Data visualization | Data visualization | Ch.1-2  |
-3/13 | [V03] Comparing distribution | Smoothing, re-expressing data | Ch.1-2  |
+3/11 | [V02] Data visualization | Data visualization | Ch.3-4  |
+3/13 | [V03] Comparing distribution | Smoothing, re-expressing data | Ch.5  |
 **Week 3** | | | |
-3/18 | [V04] Normal model |  P-P plot | Ch.1-2  |
-3/20 | [V05] Scatterplots and correlation |  Scatterplots and correlation | Ch.1-2  |
+3/18 | [V04] Normal model |  P-P plot | Ch.6  |
+3/20 | [V05] Scatterplots and correlation |  Scatterplots and correlation | Ch.7  |
 **Week 4** | | | |
-3/25 | [V06] Linear regression |  Regression to the mean | Ch.1-2  |
-3/27 | [V07] More about regression, re-expressing data |  The effects of outlier on the regression | Ch.1-2  |
+3/25 | [V06] Linear regression |  Regression to the mean | Ch.8  |
+3/27 | [V07] More about regression, re-expressing data |  The effects of outlier on the regression | Ch.9-10  |
 **Week 5** | | | |
-4/1 | [V08] Sampling <br> [V09] Experiments and Observational Studies |  Design experiments! | Ch.1-2  |
-4/3 | [V10] Probability and bayes theorem |  Bayes theorem | Ch.1-2  |
+4/1 | [V08] Sampling <br> [V09] Experiments and Observational Studies |  Design experiments! | Ch.12-13  |
+4/3 | [V10] Probability and bayes theorem |  Bayes theorem | Ch.14-15  |
 **Week 6** | | | |
-4/8 | [V11] Random variables |  Random variables | Ch.1-2  |
-4/10 | [V12] Probability models |  Probability models | Ch.1-2  |
+4/8 | [V11] Random variables |  Random variables | Ch.16  |
+4/10 | [V12] Probability models |  Probability models | Ch.17  |
 **Week 7** | | | |
 4/15 | [V13] JAMOVI |  JAMOVI practice | -  |
 4/17 | [V14] JASP |  JASP practice | -  |
 **Week 8** | | | |
 4/22, 24 | Mid-term |  - | -  |
 **Week 9** | | | |
-4/29 | [V15] Sampling distribution, central limit theorem |  Central limit theorem | Ch.1-2  |
-5/1  | [V16] Testing hypotheses about proportions <br> [V17] P-values, what is the problem? |  Null hypothesis significance testing!?! | Ch.1-2  |
+4/29 | [V15] Sampling distribution, central limit theorem |  Central limit theorem | Ch.18  |
+5/1  | [V16] Testing hypotheses about proportions <br> [V17] P-values, what is the problem? |  Null hypothesis significance testing!?! | Ch.19-20  |
 **Week 10** | | | |
-5/6 | [V18] Inferences about means |  One-sample t-tests | Ch.1-2  |
-5/8 | [V19] More about tests and intervals |  Type I and II errors | Ch.1-2  |
+5/6 | [V18] Inferences about means |  One-sample t-tests | Ch.23  |
+5/8 | [V19] More about tests and intervals |  Type I and II errors | Ch.21  |
 **Week 11** | | | |
 5/13 | No class |  - |  -  |
-5/15 | [V20] Comparing groups <br> [V21] Paired t-test | Paired t-test  | Ch.1-2  |
+5/15 | [V20] Comparing groups <br> [V21] Paired t-test | Paired t-test  | Ch.24-25  |
 **Week 12** | | | |
-5/20 | [V22] Comparing counts | chi-square tests  | Ch.1-2  |
-5/22 | [V23] Inferences about regression |  Inferences about regression  | Ch.1-2  |
+5/20 | [V22] Comparing counts | chi-square tests  | Ch.26  |
+5/22 | [V23] Inferences about regression |  Inferences about regression  | Ch.27  |
 **Week 13** | | | |
-5/27 | [V24] Analysis of Variance (ANOVA) | ANOVA | Ch.1-2  |
-5/29 | [V25] Multifactor ANOVA | Multifactor ANOVA  | Ch.1-2  |
+5/27 | [V24] Analysis of Variance (ANOVA) | ANOVA | Ch.28  |
+5/29 | [V25] Multifactor ANOVA | Multifactor ANOVA  | Ch.29  |
 **Week 14** | | | |
-6/3 | [V26] Multiple regression | Multiple regression | Ch.1-2  |
-6/5 | [V27] Multiple regression wisdom | Review  | Ch.1-2  |
+6/3 | [V26] Multiple regression | Multiple regression | Ch.30  |
+6/5 | [V27] Multiple regression wisdom | Review  | Ch.31  |
 **Week 15** | | | |
 6/10 | No class | - | -  |
 6/12 | No class | - | -  |
