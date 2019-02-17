@@ -29,9 +29,13 @@ There is a good github tutorial: [https://rogerdudler.github.io/git-guide/index.
 
 Data are everywhere. Data science already became a key element in many research and industrial areas. The primary aim of this course is to learn basic concepts and skills for data analysis, including concepts of random variables, sampling distributions, hypothesis testing, linear modeling, data visualization, etc., preparing you for your life after the graduation in this data-are-everywhere age. However, this is not the only aim of this class. Statistics goes beyond just data analysis, I believe. Statistics is a way of thinking and reasoning. It helps with scientific reasoning and critical thinking. Thus, I hope this class could provide you with some useful tips for scientific thinking and reasoning. Finally, I'd like to give you some hands-on experience of data analysis through [flipped classroom](https://en.wikipedia.org/wiki/Flipped_classroom).  
 
-## Flipped classroom
+## Course format (flipped classroom) and expectations
 
 This class uses a flipped classroom format, which is a new way of teaching and learning. Different from the traditional learning environment (passively listening to the lecture in the class and doing homework at home), in the flipped classroom, you will listen to the lecture at home and do homework and practices in the classroom. I personally experienced this format of learning during my PhD (for the Machine Learning class) and deeply enjoyed it. I found the flipped classroom helped students stay engaged and provided a good environment for hands-on experience. For these reasons, I have wanted to do the class with the flipped classroom format. Given that this year will be the first year of trying this new format, the class might not be perfect, but I promise to make the class better and better every year!
+
+I will make and share the lecture videos every week. You **should** watch the lecture videos before you come to the class. This is **crucial** because the actual class will be conducted with the assumption that you already watch the video beforehand. If you don't watch the lectures, you might not be able to follow the class. I will help you by making the videos short! They will be short! I promise. Also I will ask some easy questions to students in a random order every class. 
+
+The videos will be in English (unless you really want them to be in Korean), but we can use Korean to ask questions and discuss. 
 
 
 ## Textbooks
@@ -46,11 +50,9 @@ Supplements: <br>
 <br>"History of Statistics Reading Group" (CMU) [Link](http://stat.cmu.edu/~lrichard/history-of-stats/history-of-stats.html)
 
 
-## Course format and expectations
+## Softwares
 
-This course will use the flipped classroom format. I will make and share the lecture videos every week. You **should** watch the lecture videos before you come to the class. This is **crucial** because the actual class will be conducted with the assumption that you already watch the video beforehand. If you don't watch the lectures, you might not be able to follow the class. I will help you by making the videos short! They will be short! I promise. Also I will ask some easy questions to students in a random order every class. 
-
-The videos will be in English (unless you really want them to be in Korean), but we can use Korean to ask questions and discuss. 
+Teaching how to use statistics packages or programming is not the main focus of this class. This class is more about statistical methods and theories. However, software packages and computer programming are actually essential in learning statistics. Therefore, I will provide two lectures about new software packages for statistical analysis, [JAMOVI](https://www.jamovi.org/) and [JASP](https://jasp-stats.org/). They are brand-new and open-source tools for statistical analysis. In addition, I might use Matlab, Python, or R sometimes. You can download Matlab through SKKU. Python and R are open-source programming languages. I'm planning to open a new experiment class to teach how to use these tools (maybe next year). Therefore, stay tuned. 
 
 
 ## Evaluation
