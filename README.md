@@ -6,7 +6,7 @@
 - Lecturer: Choong-Wan Woo, Ph.D. Assistant professor (GBME).
 - Office: N-center, 86335
 - Web: [Cocoan lab](http://cocoanlab.github.io)
-- E-mail: waniwoo@skku.edu
+- E-mail: gbe3037.statprob@gmail.com
 - Class: Mon 1:30-2:45, Wed 12:00-1:15 at 86102
 - Office hours: Wed 10:00-12:00, you can book a time in advance through [https://choongwanwoo.youcanbook.me](https://choongwanwoo.youcanbook.me)
 
@@ -53,6 +53,12 @@ Supplements: <br>
 ## Softwares
 
 Teaching how to use statistics packages or programming is not the main focus of this class. This class is more about statistical methods and theories. However, software packages and computer programming are actually essential in learning statistics. Therefore, I will provide two lectures about new software packages for statistical analysis, [JAMOVI](https://www.jamovi.org/) and [JASP](https://jasp-stats.org/). They are brand-new and open-source tools for statistical analysis. In addition, I might use Matlab, Python, or R sometimes. You can download Matlab through SKKU. Python and R are open-source programming languages. I'm planning to open a new experiment class to teach how to use these tools (maybe next year). Therefore, stay tuned. 
+
+
+## TAs
+
+- Lada Kohoutová 
+- Hongji Kim 
 
 
 ## Evaluation
