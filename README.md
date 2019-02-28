@@ -6,7 +6,7 @@
 - Lecturer: Choong-Wan Woo, Ph.D. Assistant professor (GBME).
 - Office: N-center, 86335
 - Web: [Cocoan lab](http://cocoanlab.github.io)
-- E-mail: gbe3037.statprob@gmail.com
+- E-mail: gbe3037.statprob@gmail.com 
 - Class: Mon 1:30-2:45, Wed 12:00-1:15 at 86102
 - Office hours: Wed 10:00-12:00, you can book a time in advance through [https://choongwanwoo.youcanbook.me](https://choongwanwoo.youcanbook.me)
 
@@ -57,8 +57,8 @@ Teaching how to use statistics packages or programming is not the main focus of 
 
 ## TAs
 
-- Lada Kohoutová 
-- Hongji Kim 
+- Lada Kohoutová (ladakohoutova@gmail.com)
+- Hongji Kim (redkim94@hanmail.net)
 
 
 ## Evaluation
