@@ -77,7 +77,7 @@ Week  | Video lectures | Class | Chapters
 ------| ------ | ----- | --------
 **Week 1** |
 3/4  |  No video | Course overview | Overview |    |
-3/6  | [V01] Data | Cognitive errors! | Ch.1-2  |
+3/6  | [Survey](https://goo.gl/forms/KtUKROcDyqYYtcgv2)<br>[V01] Data | Cognitive errors! | Ch.1-2  |
 **Week 2** | | | |
 3/11 | [V02] Data visualization | Data visualization | Ch.3-4  |
 3/13 | [V03] Comparing distribution | Smoothing, re-expressing data | Ch.5  |
