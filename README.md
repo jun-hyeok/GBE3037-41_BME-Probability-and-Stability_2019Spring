@@ -9,8 +9,7 @@
 - E-mail: gbe3037.statprob@gmail.com 
 - Class: Mon 1:30-2:45, Wed 12:00-1:15 at 86102
 - Office hours: Wed 10:00-12:00, you can book a time in advance through [https://choongwanwoo.youcanbook.me](https://choongwanwoo.youcanbook.me)
-- Piazza link: [here](
-piazza.com/sungkyunkwan_university/spring2019/gbe3037)
+- Piazza link: [here](https://piazza.com/sungkyunkwan_university/spring2019/gbe3037)
 
 <br>
 
@@ -39,8 +38,7 @@ I will make and share the lecture videos every week. You **should** watch the le
 
 The videos will be in English (unless you really want them to be in Korean), but we can use Korean to ask questions and discuss. 
 
-We will use [piazza](
-piazza.com/sungkyunkwan_university/spring2019/gbe3037) as a platform for a class announcement, discussion, and questions. 
+We will use [piazza](https://piazza.com/sungkyunkwan_university/spring2019/gbe3037) as a platform for a class announcement, discussion, and questions. 
 
 
 ## Textbooks
