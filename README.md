@@ -76,10 +76,10 @@ Absolute evaluation will be used for this course.
 Week  | Video lectures | Class | Chapters 
 ------| ------ | ----- | --------
 **Week 1** |
-3/4  |  No video | Course overview | Overview |    |
-3/6  | [Survey](https://goo.gl/forms/KtUKROcDyqYYtcgv2)<br>[V01: Data](https://youtu.be/hkMrXhG0ot0) | Cognitive errors! | Ch.1-2  |
+3/4  | [V00:Class intro](https://www.youtube.com/watch?v=7P6_MLVpQc0&feature=youtu.be) | Course overview | [Survey](https://goo.gl/forms/KtUKROcDyqYYtcgv2)<br> | 
+3/6  | [V01: Data](https://youtu.be/hkMrXhG0ot0) | Cognitive errors! | Ch.1-2  |
 **Week 2** | | | |
-3/11 | [V02] Data visualization | Data visualization | Ch.3-4  |
+3/11 | [V02: Data visualization](https://youtu.be/Dip7moX2FDQ) | Data visualization | Ch.3-4  |
 3/13 | [V03] Comparing distribution | Smoothing, re-expressing data | Ch.5  |
 **Week 3** | | | |
 3/18 | [V04] Normal model |  P-P plot | Ch.6  |
