@@ -9,6 +9,8 @@
 - E-mail: gbe3037.statprob@gmail.com 
 - Class: Mon 1:30-2:45, Wed 12:00-1:15 at 86102
 - Office hours: Wed 10:00-12:00, you can book a time in advance through [https://choongwanwoo.youcanbook.me](https://choongwanwoo.youcanbook.me)
+- Piazza link: [here](
+piazza.com/sungkyunkwan_university/spring2019/gbe3037)
 
 <br>
 
@@ -36,6 +38,9 @@ This class uses a flipped classroom format, which is a new way of teaching and l
 I will make and share the lecture videos every week. You **should** watch the lecture videos before you come to the class. This is **crucial** because the actual class will be conducted with the assumption that you already watch the video beforehand. If you don't watch the lectures, you might not be able to follow the class. I will help you by making the videos short! They will be short! I promise. Also I will ask some easy questions to students in a random order every class. 
 
 The videos will be in English (unless you really want them to be in Korean), but we can use Korean to ask questions and discuss. 
+
+We will use [piazza](
+piazza.com/sungkyunkwan_university/spring2019/gbe3037) as a platform for a class announcement, discussion, and questions. 
 
 
 ## Textbooks
