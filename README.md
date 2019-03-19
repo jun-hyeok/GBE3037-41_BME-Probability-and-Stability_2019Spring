@@ -86,7 +86,7 @@ Week  | Video lectures | Class | Chapters
 3/13 | [V03: Comparing distribution](https://youtu.be/XDThj7Rk1Fo) <br> Note: I made both V03 and V04 into one video (accidentally). Watch only 14 mins of the video. | Smoothing, re-expressing data | Ch.5  |
 **Week 3** | | | |
 3/18 | [V04: Normal model](https://youtu.be/XDThj7Rk1Fo?t=838) |  P-P plot | Ch.6  |
-3/20 | [V05] Scatterplots and correlation |  Scatterplots and correlation | Ch.7  |
+3/20 | [V05: Scatterplots and correlation](https://youtu.be/nF0XT4rCzKU) <br> Please complete [Quiz](https://bit.ly/2TR6Eh3) |  Scatterplots and correlation | Ch.7  |
 **Week 4** | | | |
 3/25 | [V06] Linear regression |  Regression to the mean | Ch.8  |
 3/27 | [V07] More about regression, re-expressing data |  The effects of outlier on the regression | Ch.9-10  |
