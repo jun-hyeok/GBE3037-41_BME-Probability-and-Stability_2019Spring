@@ -91,34 +91,34 @@ Week  | Video lectures | Class | Chapters
 3/25 | [V06: Linear regression](https://www.youtube.com/watch?v=iWz45GWlRD0&t=0s&index=7&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28) <br> Please complete [Quiz](https://goo.gl/forms/ey0BUZyrZR8IIVs42)|  Regression to the mean | Ch.8  |
 3/27 | [V07: More about regression, re-expressing data](https://www.youtube.com/watch?v=evfC8aznCHM&t=0s&index=8&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28) <br> Please complete [Quiz](https://goo.gl/forms/Enlqo5SgyxKAdrag2) |  The effects of outlier on the regression | Ch.9-10  |
 **Week 5** | | | |
-4/1 | [V08] Sampling <br> [V09] Experiments and Observational Studies |  Design experiments! | Ch.12-13  |
-4/3 | [V10] Probability and bayes theorem |  Bayes theorem | Ch.14-15  |
+4/1 | [V08: Sampling](https://youtu.be/uqkUIkZhf_Y) <br> Please complete [Quiz](https://forms.gle/jR5wTeebuYP4APT4A)|  Design experiments! | Ch.12-13  |
+4/3 | [V9] Probability and bayes theorem |  Bayes theorem | Ch.14-15  |
 **Week 6** | | | |
-4/8 | [V11] Random variables |  Random variables | Ch.16  |
-4/10 | [V12] Probability models |  Probability models | Ch.17  |
+4/8 | [V10] Random variables |  Random variables | Ch.16  |
+4/10 | [V11] Probability models |  Probability models | Ch.17  |
 **Week 7** | | | |
-4/15 | [V13] JAMOVI |  JAMOVI practice | -  |
-4/17 | [V14] JASP |  JASP practice | -  |
+4/15 | [V12] JAMOVI |  JAMOVI practice | -  |
+4/17 | [V13] JASP |  JASP practice | -  |
 **Week 8** | | | |
 4/22, 24 | Mid-term |  - | -  |
 **Week 9** | | | |
-4/29 | [V15] Sampling distribution, central limit theorem |  Central limit theorem | Ch.18  |
-5/1  | [V16] Testing hypotheses about proportions <br> [V17] P-values, what is the problem? |  Null hypothesis significance testing!?! | Ch.19-20  |
+4/29 | [V14] Sampling distribution, central limit theorem |  Central limit theorem | Ch.18  |
+5/1  | [V15] Testing hypotheses about proportions <br> [V16] P-values, what is the problem? |  Null hypothesis significance testing!?! | Ch.19-20  |
 **Week 10** | | | |
-5/6 | [V18] Inferences about means |  One-sample t-tests | Ch.23  |
-5/8 | [V19] More about tests and intervals |  Type I and II errors | Ch.21  |
+5/6 | [V17] Inferences about means |  One-sample t-tests | Ch.23  |
+5/8 | [V18] More about tests and intervals |  Type I and II errors | Ch.21  |
 **Week 11** | | | |
 5/13 | No class |  - |  -  |
-5/15 | [V20] Comparing groups <br> [V21] Paired t-test | Paired t-test  | Ch.24-25  |
+5/15 | [V19] Comparing groups <br> [V20] Paired t-test | Paired t-test  | Ch.24-25  |
 **Week 12** | | | |
-5/20 | [V22] Comparing counts | chi-square tests  | Ch.26  |
-5/22 | [V23] Inferences about regression |  Inferences about regression  | Ch.27  |
+5/20 | [V21] Comparing counts | chi-square tests  | Ch.26  |
+5/22 | [V22] Inferences about regression |  Inferences about regression  | Ch.27  |
 **Week 13** | | | |
-5/27 | [V24] Analysis of Variance (ANOVA) | ANOVA | Ch.28  |
-5/29 | [V25] Multifactor ANOVA | Multifactor ANOVA  | Ch.29  |
+5/27 | [V23] Analysis of Variance (ANOVA) | ANOVA | Ch.28  |
+5/29 | [V24] Multifactor ANOVA | Multifactor ANOVA  | Ch.29  |
 **Week 14** | | | |
-6/3 | [V26] Multiple regression | Multiple regression | Ch.30  |
-6/5 | [V27] Multiple regression wisdom | Review  | Ch.31  |
+6/3 | [V25] Multiple regression | Multiple regression | Ch.30  |
+6/5 | [V26] Multiple regression wisdom | Review  | Ch.31  |
 **Week 15** | | | |
 6/10 | No class | - | -  |
 6/12 | No class | - | -  |
