@@ -97,8 +97,8 @@ Week  | Video lectures | Class | Chapters
 4/8 | [V11] Random variables |  Random variables | Ch.16  |
 4/10 | [V12] Probability models |  Probability models | Ch.17  |
 **Week 7** | | | |
-4/15 | [V13] JAMOVI |  JAMOVI practice | -  |
-4/17 | [V14] JASP |  JASP practice | -  |
+4/15 | [V13: JAMOVI](https://www.youtube.com/playlist?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn) |  JAMOVI practice | -  |
+4/17 | [V14: JASP](https://www.youtube.com/channel/UCSulowI4mXFyBkw3bmp7pXg) |  JASP practice | -  |
 **Week 8** | | | |
 4/22, 24 | Mid-term |  - | -  |
 **Week 9** | | | |
