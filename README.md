@@ -92,7 +92,7 @@ Week  | Video lectures | Class | Chapters
 3/27 | [V07: More about regression, re-expressing data](https://www.youtube.com/watch?v=evfC8aznCHM&t=0s&index=8&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28) <br> Please complete [Quiz](https://goo.gl/forms/Enlqo5SgyxKAdrag2) |  The effects of outlier on the regression | Ch.9-10  |
 **Week 5** | | | |
 4/1 | [V08: Sampling](https://youtu.be/uqkUIkZhf_Y) <br> Please complete [Quiz](https://forms.gle/jR5wTeebuYP4APT4A)|  Design experiments! | Ch.12-13  |
-4/3 | [V9] Probability and bayes theorem |  Bayes theorem | Ch.14-15  |
+4/3 | [V9: Probability and bayes theorem](https://www.youtube.com/watch?v=pu4YeWys4s4) <br> Please complete [Quiz](https://forms.gle/ynfc2gWiriuBch9q7)|  Bayes theorem | Ch.14-15  |
 **Week 6** | | | |
 4/8 | [V10] Random variables |  Random variables | Ch.16  |
 4/10 | [V11] Probability models |  Probability models | Ch.17  |
