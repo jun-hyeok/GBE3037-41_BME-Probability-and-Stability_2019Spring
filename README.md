@@ -94,11 +94,11 @@ Week  | Video lectures | Class | Chapters
 4/1 | [V08: Sampling](https://youtu.be/uqkUIkZhf_Y) <br> Please complete [Quiz](https://forms.gle/jR5wTeebuYP4APT4A)|  Design experiments! | Ch.12-13  |
 4/3 | [V10: Probability and bayes theorem](https://www.youtube.com/watch?v=pu4YeWys4s4) <br> Please complete [Quiz](https://forms.gle/ynfc2gWiriuBch9q7)|  Bayes theorem | Ch.14-15  |
 **Week 6** | | | |
-4/8 | [V11] Random variables |  Random variables | Ch.16  |
-4/10 | [V12] Probability models |  Probability models | Ch.17  |
+4/8 | [V11: Random variables](https://youtu.be/IvwQHuMiTm0) <br> Please complete [Quiz](https://forms.gle/aWBHzd8cHZnqj82x6) |  Random variables | Ch.16  |
+4/10 | [V12: Probability models](https://youtu.be/nROQGQtqECA) <br> Please complete [Quiz](https://forms.gle/3W5FN4MeFw58S2Y29)|  Probability models | Ch.17  |
 **Week 7** | | | |
-4/15 | [V13: JAMOVI](https://www.youtube.com/playlist?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn) |  JAMOVI practice | -  |
-4/17 | [V14: JASP](https://www.youtube.com/channel/UCSulowI4mXFyBkw3bmp7pXg) |  JASP practice | -  |
+4/15 | [V13: JAMOVI](https://www.youtube.com/playlist?list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn) <br> [V14: JASP](https://www.youtube.com/channel/UCSulowI4mXFyBkw3bmp7pXg) |  JAMOVI and JASP practice | -  |
+4/17 | Review  |  Q & A | -  |
 **Week 8** | | | |
 4/22, 24 | Mid-term |  - | -  |
 **Week 9** | | | |
