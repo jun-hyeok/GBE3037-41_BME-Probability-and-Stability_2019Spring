@@ -102,11 +102,11 @@ Week  | Video lectures | Class | Chapters
 **Week 8** | | | |
 4/22, 24 | Mid-term |  - | -  |
 **Week 9** | | | |
-4/29 | No Video today |  [L14] Sampling distribution, central limit theorem | Ch.18  |
+4/29 | No Video today |  [L14: Sampling distribution, central limit theorem](https://youtu.be/KP26FzvZL7o) | Ch.18  |
 5/1  | [V15] Testing hypotheses about proportions <br> [V16] P-values, what is the problem? |  Central limit theorem | Ch.19-20  |
 **Week 10** | | | |
-5/6 | [V18] Inferences about means |  One-sample t-tests | Ch.23  |
-5/8 | [V19] More about tests and intervals |  Type I and II errors | Ch.21  |
+5/6 | No class (어린이날 대체공휴일) |  |  |
+5/8 | [V18] Inferences about means <br> [V19] More about tests and intervals |  Type I and II errors | Ch.21-23  |
 **Week 11** | | | |
 5/13 | No class |  - |  -  |
 5/15 | [V20] Comparing groups <br> [V21] Paired t-test | Paired t-test  | Ch.24-25  |
