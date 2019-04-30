@@ -103,7 +103,7 @@ Week  | Video lectures | Class | Chapters
 4/22, 24 | Mid-term |  - | -  |
 **Week 9** | | | |
 4/29 | No Video today |  [L14: Sampling distribution, central limit theorem](https://youtu.be/KP26FzvZL7o) | Ch.18  |
-5/1  | [V15: Confidence interval for proportions](https://youtu.be/X1AYVK1Sqv4) <br> Please complete [Quiz](https://forms.gle/zH7x8M3y9wJd9ic88) |  Central limit theorem | Ch.19  |
+5/1  | [V15: Confidence interval for proportions](https://youtu.be/X1AYVK1Sqv4) <br> Please complete [Quiz](https://forms.gle/zH7x8M3y9wJd9ic88) |  Central limit theorem <br> [Link1](https://docs.google.com/spreadsheets/d/1f5n1E9nmATFra9Yb7D86ru2zf1RSxq0ipDZuSoVrOYM/edit?usp=sharing) [Link2](https://docs.google.com/spreadsheets/d/1G7nDs-IXWq2QpYl4M-iyJ3sTOrcEOLXdKGLt-jqy9M8/edit?usp=sharing) | Ch.19  |
 **Week 10** | | | |
 5/6 | No class (어린이날 대체공휴일) |  |  |
 5/8 | [V16] Hypothesis testing, P-values <br> [V17] Inferences about means | NHST and P-value | Ch.21-23  |
