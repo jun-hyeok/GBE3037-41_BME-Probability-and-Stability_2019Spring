@@ -103,22 +103,23 @@ Week  | Video lectures | Class | Chapters
 4/22, 24 | Mid-term |  - | -  |
 **Week 9** | | | |
 4/29 | No Video today |  [L14: Sampling distribution, central limit theorem](https://youtu.be/KP26FzvZL7o) | Ch.18  |
-5/1  | [V15] Testing hypotheses about proportions <br> [V16] P-values, what is the problem? |  Central limit theorem | Ch.19-20  |
+5/1  | [V15: Confidence interval for proportions](https://youtu.be/X1AYVK1Sqv4) |  Central limit theorem | Ch.19  |
 **Week 10** | | | |
 5/6 | No class (어린이날 대체공휴일) |  |  |
-5/8 | [V18] Inferences about means <br> [V19] More about tests and intervals |  Type I and II errors | Ch.21-23  |
+5/8 | [V16] Hypothesis testing, P-values <br> [V17] Inferences about means | NHST and P-value | Ch.21-23  |
 **Week 11** | | | |
 5/13 | No class |  - |  -  |
-5/15 | [V20] Comparing groups <br> [V21] Paired t-test | Paired t-test  | Ch.24-25  |
+5/15 | [V18] More about tests and intervals <br>
+[V19] Comparing groups  | TBA  | Ch.24-25  |
 **Week 12** | | | |
-5/20 | [V22] Comparing counts | chi-square tests  | Ch.26  |
-5/22 | [V23] Inferences about regression |  Inferences about regression  | Ch.27  |
+5/20 | [V20] Paired t-test <br> [V21] Comparing counts | chi-square tests  | Ch.26  |
+5/22 | [V22] Inferences about regression |  Inferences about regression  | Ch.27  |
 **Week 13** | | | |
-5/27 | [V24] Analysis of Variance (ANOVA) | ANOVA | Ch.28  |
-5/29 | [V25] Multifactor ANOVA | Multifactor ANOVA  | Ch.29  |
+5/27 | [V23] Analysis of Variance (ANOVA) | ANOVA | Ch.28  |
+5/29 | [V24] Multifactor ANOVA | Multifactor ANOVA  | Ch.29  |
 **Week 14** | | | |
-6/3 | [V26] Multiple regression | Multiple regression | Ch.30  |
-6/5 | [V27] Multiple regression wisdom | Review  | Ch.31  |
+6/3 | [V25] Multiple regression | Multiple regression | Ch.30  |
+6/5 | [V26] Multiple regression wisdom | Review  | Ch.31  |
 **Week 15** | | | |
 6/10 | No class | - | -  |
 6/12 | No class | - | -  |
