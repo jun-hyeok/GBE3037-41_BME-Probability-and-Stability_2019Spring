@@ -109,8 +109,7 @@ Week  | Video lectures | Class | Chapters
 5/8 | [V16] Hypothesis testing, P-values <br> [V17] Inferences about means | NHST and P-value | Ch.21-23  |
 **Week 11** | | | |
 5/13 | No class |  - |  -  |
-5/15 | [V18] More about tests and intervals <br>
-[V19] Comparing groups  | TBA  | Ch.24-25  |
+5/15 | [V18] More about tests and intervals <br> [V19] Comparing groups  | TBA  | Ch.24-25  |
 **Week 12** | | | |
 5/20 | [V20] Paired t-test <br> [V21] Comparing counts | chi-square tests  | Ch.26  |
 5/22 | [V22] Inferences about regression |  Inferences about regression  | Ch.27  |
