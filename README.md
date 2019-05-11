@@ -109,7 +109,7 @@ Week  | Video lectures | Class | Chapters
 5/8 | [V16: Hypothesis testing, P-values](https://youtu.be/WyIAZ9HxpfI) <br> Please complete [Quiz](https://forms.gle/T6St1Fh2YagCPXT87) | Let's watch V17 together [V17: Inferences about means](https://youtu.be/Hkl0__0kLh0) <br> NHST and P-value | Ch.21-23  |
 **Week 11** | | | |
 5/13 | No class |  - |  -  |
-5/15 | [V18] More about tests and intervals <br> [V19] Comparing groups  | T-tests  | Ch.24-25  |
+5/15 | [V18: More about tests and intervals](https://www.youtube.com/watch?v=Pk6UYTqb7ls&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=18&t=0s) <br> Please complete [Quiz](https://forms.gle/Mdvmi1t4w8VJi98D8) for V18 <br> [V19:Comparing groups](https://www.youtube.com/watch?v=uRPJtGoMI2A&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=19&t=0s) <br> Please complete [Quiz](https://forms.gle/xcYNxdsrq9ZtPC796) for V19  | Q&A, Confidence interval, T-tests  | Ch.24-25  |
 **Week 12** | | | |
 5/20 | [V20] Paired t-test <br> [V21] Comparing counts | chi-square tests  | Ch.26  |
 5/22 | [V22] Inferences about regression |  Inferences about regression  | Ch.27  |
