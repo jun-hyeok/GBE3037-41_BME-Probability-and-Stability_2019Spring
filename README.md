@@ -106,21 +106,21 @@ Week  | Video lectures | Class | Chapters
 5/1  | [V15: Confidence interval for proportions](https://youtu.be/X1AYVK1Sqv4) <br> Please complete [Quiz](https://forms.gle/zH7x8M3y9wJd9ic88) |  Central limit theorem <br> [Link1](https://docs.google.com/spreadsheets/d/1f5n1E9nmATFra9Yb7D86ru2zf1RSxq0ipDZuSoVrOYM/edit?usp=sharing) [Link2](https://docs.google.com/spreadsheets/d/1G7nDs-IXWq2QpYl4M-iyJ3sTOrcEOLXdKGLt-jqy9M8/edit?usp=sharing) <br> [Wani research slide](/activities/brain_show_woo.pdf)| Ch.19  |
 **Week 10** | | | |
 5/6 | No class (어린이날 대체공휴일) |  |  |
-5/8 | [V16: Hypothesis testing, P-values](https://youtu.be/WyIAZ9HxpfI) <br> Please complete [Quiz](https://forms.gle/T6St1Fh2YagCPXT87) | Let's watch V17 together [V17: Inferences about means](https://youtu.be/Hkl0__0kLh0) <br> NHST and P-value | Ch.21-23  |
+5/8 | [V16: Hypothesis testing, P-values](https://youtu.be/WyIAZ9HxpfI) <br> Please complete [Quiz](https://forms.gle/T6St1Fh2YagCPXT87) | Let's watch V17 together [V17: Inferences about means](https://youtu.be/Hkl0__0kLh0) <br> NHST and P-value | Ch.21-22  |
 **Week 11** | | | |
 5/13 | No class |  - |  -  |
-5/15 | [V18: More about tests and intervals](https://www.youtube.com/watch?v=Pk6UYTqb7ls&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=18&t=0s) <br> Please complete [Quiz](https://forms.gle/Mdvmi1t4w8VJi98D8) for V18 <br> [V19:Comparing groups](https://www.youtube.com/watch?v=uRPJtGoMI2A&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=19&t=0s) <br> Please complete [Quiz](https://forms.gle/xcYNxdsrq9ZtPC796) for V19  | Q&A, Confidence interval, T-tests  | Ch.24-25  |
+5/15 | [V18: More about tests and intervals](https://www.youtube.com/watch?v=Pk6UYTqb7ls&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=18&t=0s) <br> Please complete [Quiz](https://forms.gle/Mdvmi1t4w8VJi98D8) for V18 <br> [V19:Comparing groups](https://www.youtube.com/watch?v=uRPJtGoMI2A&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=19&t=0s) <br> Please complete [Quiz](https://forms.gle/xcYNxdsrq9ZtPC796) for V19  | Q&A, Confidence interval, T-test I  | Ch.23-24  |
 **Week 12** | | | |
-5/20 | [V20] Paired t-test <br> [V21] Comparing counts | chi-square tests  | Ch.26  |
-5/22 | [V22] Inferences about regression |  Inferences about regression  | Ch.27  |
+5/20 | [V20] Paired t-test | T-test II  | Ch.25  |
+5/22 | [V21] Comparing counts |  Chi-square test  | Ch.26  |
 **Week 13** | | | |
-5/27 | [V23] Analysis of Variance (ANOVA) | ANOVA | Ch.28  |
-5/29 | [V24] Multifactor ANOVA | Multifactor ANOVA  | Ch.29  |
+5/27 | [V22] Inferences about regression | Mini-review | Ch.27  |
+5/29 | [V23] Analysis of Variance (ANOVA) <br> [V24] Multifactor ANOVA | TBD  | Ch.28-29  |
 **Week 14** | | | |
-6/3 | [V25] Multiple regression | Multiple regression | Ch.30  |
+6/3 | [V25] Multiple regression | TBD (led by Lada) | Ch.30  |
 6/5 | [V26] Multiple regression wisdom | Review  | Ch.31  |
 **Week 15** | | | |
-6/10 | No class | - | -  |
+6/10 | Review (led by Hongji) | - | -  |
 6/12 | No class | - | -  |
 **Week 16** | | | |
 6/17, 19 | Final |  - | -  |
