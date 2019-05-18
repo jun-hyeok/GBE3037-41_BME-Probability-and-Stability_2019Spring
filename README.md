@@ -112,7 +112,7 @@ Week  | Video lectures | Class | Chapters
 5/15 | [V18: More about tests and intervals](https://www.youtube.com/watch?v=Pk6UYTqb7ls&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=18&t=0s) <br> Please complete [Quiz](https://forms.gle/Mdvmi1t4w8VJi98D8) for V18 <br> [V19:Comparing groups](https://www.youtube.com/watch?v=uRPJtGoMI2A&list=PLXCuLG6zw7mIq7TGy_r_DbBMSMvI1OI28&index=19&t=0s) <br> Please complete [Quiz](https://forms.gle/xcYNxdsrq9ZtPC796) for V19  | Q&A, Confidence interval, T-test I  | Ch.23-24  |
 **Week 12** | | | |
 5/20 | [V20: Paired t-test](https://youtu.be/OniGJUnPwVw) <br> Please complete [Quiz](https://forms.gle/vpVJTessZomw79yQ6) | T-test II  | Ch.25  |
-5/22 | [V21] Comparing counts |  Chi-square test  | Ch.26  |
+5/22 | [V21] Comparing counts <br> *I will give (and record) the lecture in the class |  Chi-square test  | Ch.26  |
 **Week 13** | | | |
 5/27 | [V22] Inferences about regression | Mini-review | Ch.27  |
 5/29 | [V23] Analysis of Variance (ANOVA) <br> [V24] Multifactor ANOVA | TBD  | Ch.28-29  |
