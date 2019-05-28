@@ -114,10 +114,10 @@ Week  | Video lectures | Class | Chapters
 5/20 | [V20: Paired t-test](https://youtu.be/OniGJUnPwVw) <br> Please complete [Quiz](https://forms.gle/vpVJTessZomw79yQ6) | T-test II  | Ch.25  |
 5/22 | No class (festival; 자인전) |  -  | -  |
 **Week 13** | | | |
-5/27 | [V21] Comparing counts <br> [V22] Inferences about regression | lecture and Q&A | Ch.26-27  |
-5/29 | [V23] Analysis of Variance (ANOVA) <br> [V24] Multifactor ANOVA | TBD  | Ch.28-29  |
+5/27 | [V21] Comparing counts  | lecture and Q&A | Ch.26  |
+5/29 | [V22: Review: Inferences about regression](https://www.youtube.com/watch?v=YEO5UAjRwsk) <br> [V23: Analysis of Variance (ANOVA)](https://www.youtube.com/watch?v=-W2Ah7IPKYY)  | Watch the video lecture together and solve quiz together  | Ch.27-28  |
 **Week 14** | | | |
-6/3 | [V25] Multiple regression | TBD (led by Lada) | Ch.30  |
+6/3 | [V24] Multifactor ANOVA <br> [V25] Multiple regression | TBD (led by Lada) | Ch.29-30  |
 6/5 | [V26] Multiple regression wisdom | Review  | Ch.31  |
 **Week 15** | | | |
 6/10 | Review (led by Hongji) | - | -  |
