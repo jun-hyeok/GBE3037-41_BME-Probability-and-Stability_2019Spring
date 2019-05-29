@@ -115,9 +115,9 @@ Week  | Video lectures | Class | Chapters
 5/22 | No class (festival; 자인전) |  -  | -  |
 **Week 13** | | | |
 5/27 | [V21] Comparing counts  | lecture and Q&A | Ch.26  |
-5/29 | [V22: Review: Inferences about regression](https://www.youtube.com/watch?v=YEO5UAjRwsk) <br> Please complete [Quiz](https://forms.gle/mbWx5yXBXG2oWfKv8) for V22 <br> [V23: Analysis of Variance (ANOVA)](https://www.youtube.com/watch?v=-W2Ah7IPKYY)  <br> Please complete [Quiz](https://forms.gle/GwWA9jnqbMrmzM379) for V23| Watch the video lecture together and solve quiz together  | Ch.27-28  |
+5/29 | [V22: Review: Inferences about regression](https://www.youtube.com/watch?v=YEO5UAjRwsk) <br> Please complete [Quiz](https://forms.gle/mbWx5yXBXG2oWfKv8) for V22 <br> [V23: Analysis of Variance (ANOVA)](https://youtu.be/7M6XG5IviUk)  <br> Please complete [Quiz](https://forms.gle/GwWA9jnqbMrmzM379) for V23| Watch the video lecture together and solve quiz together  | Ch.27-28  |
 **Week 14** | | | |
-6/3 | [V24] Multifactor ANOVA | TBD (led by Lada) | Ch.29  |
+6/3 | [V24: Multifactor ANOVA](https://youtu.be/Uxc2vO_QZjo) <br> Please complete [Quiz](https://forms.gle/F85K1jEFTBX8UJnX8)| TBD (led by Lada) | Ch.29  |
 6/5 | [V25] Multiple regression <br> [V26] Multiple regression wisdom | Review  | Ch.30-31  |
 **Week 15** | | | |
 6/10 | Review (led by Hongji) | - | -  |
