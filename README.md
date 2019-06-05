@@ -118,9 +118,9 @@ Week  | Video lectures | Class | Chapters
 5/29 | [V22: Review: Inferences about regression](https://www.youtube.com/watch?v=YEO5UAjRwsk) <br> Please complete [Quiz](https://forms.gle/mbWx5yXBXG2oWfKv8) for V22 <br> [V23: Analysis of Variance (ANOVA)](https://youtu.be/7M6XG5IviUk)  <br> Please complete [Quiz](https://forms.gle/GwWA9jnqbMrmzM379) for V23| Watch the video lecture together and solve quiz together  | Ch.27-28  |
 **Week 14** | | | |
 6/3 | [V24: Multifactor ANOVA](https://youtu.be/Uxc2vO_QZjo) <br> Please complete [Quiz](https://forms.gle/F85K1jEFTBX8UJnX8)| TBD (led by Lada) | Ch.29  |
-6/5 | [V25] Multiple regression <br> [V26] Multiple regression wisdom | Review  | Ch.30-31  |
+6/5 | [V25: Multiple regression](https://youtu.be/a44guv3Zmkg) <br> [Quiz](https://forms.gle/TAjUiG3gPXufKyiA9) for V25 <br> [V26: Multiple regression wisdom](https://youtu.be/d6OzuWV2wks) <br> [Quiz](https://forms.gle/ov7ycxnP1N3aeRBNA) for V26 | Review  | Ch.30-31  |
 **Week 15** | | | |
-6/10 | Review (led by Hongji) | - | -  |
+6/10 | Review (led by Hongji) <br> [Link](https://forms.gle/vxwHh1QvD7KEDJmp9) for submitting the review questions <br> (please complete the submission until Friday 6PM) | - | -  |
 6/12 | No class | - | -  |
 **Week 16** | | | |
 6/17, 19 | Final |  - | -  |
